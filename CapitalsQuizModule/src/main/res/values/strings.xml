@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="capitals_quiz">CapitalsQuiz</string>
+    <string name="menu_quiz">MenuQuiz</string>
+    <string name="menu">Menu</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
